@@ -1,541 +1,435 @@
 ,year,round,pick,player,position,school
-1627,2010,1,1,"Wall, John",PG,Kentucky
-1628,2010,1,2,"Turner, Evan",SF/SG,Ohio State
-1629,2010,1,3,"Favors, Derrick",PF,Georgia Tech
-1630,2010,1,4,"Johnson, Wesley",SF,Syracuse
-1631,2010,1,5,"Cousins, DeMarcus",C,Kentucky
 1632,2010,1,6,"Udoh, Ekpe",C,Baylor
-1633,2010,1,7,"Monroe, Greg",PF,Georgetown
-1634,2010,1,8,"Aminu, Al-Farouq",SF,Wake Forest
 1635,2010,1,9,"Hayward, Gordon",SF,Butler
+1666,2010,2,40,"Stephenson, Lance",SG,Cincinnati
+1649,2010,1,23,"Booker, Trevor",PF,Clemson
+1685,2010,2,59,"Robinson, Stanley",SF,Connecticut
+1676,2010,2,50,"Alabi, Solomon",C,Florida State
+1683,2010,2,57,"Reid, Ryan",PF,Florida State
 1636,2010,1,10,"George, Paul",SF,Fresno State
+1633,2010,1,7,"Monroe, Greg",PF,Georgetown
+1629,2010,1,3,"Favors, Derrick",PF,Georgia Tech
+1672,2010,2,46,"Lawal, Gani",PF,Georgia Tech
+1647,2010,1,21,"Brackins, Craig",PF,Iowa State
 1637,2010,1,11,"Aldrich, Cole",C,Kansas
 1638,2010,1,12,"Henry, Xavier",SG,Kansas
-1639,2010,1,13,"Davis, Ed",PF,North Carolina
+1627,2010,1,1,"Wall, John",PG,Kentucky
+1631,2010,1,5,"Cousins, DeMarcus",C,Kentucky
 1640,2010,1,14,"Patterson, Patrick",PF,Kentucky
-1641,2010,1,15,"Sanders, Larry",C,VCU
-1642,2010,1,16,"Babbitt, Luke",SF,Nevada
-1643,2010,1,17,"SÌÎå©raphin, KÌÎå©vin",PF,Cholet Basket
 1644,2010,1,18,"Bledsoe, Eric",PG,Kentucky
-1645,2010,1,19,"Bradley, Avery",SG,Texas
-1646,2010,1,20,"Anderson, James",SG,Oklahoma State
-1647,2010,1,21,"Brackins, Craig",PF,Iowa State
-1648,2010,1,22,"Williams, Elliot",SG,Memphis
-1649,2010,1,23,"Booker, Trevor",PF,Clemson
-1650,2010,1,24,"James, Damion",SF,Texas
-1651,2010,1,25,"Jones, Dominique",SG,USF
-1652,2010,1,26,"Pondexter, Quincy",SF,Washington
-1653,2010,1,27,"Crawford, Jordan",SG,Xavier
-1654,2010,1,28,"VÌÎÌsquez, Greivis",PG,Maryland
 1655,2010,1,29,"Orton, Daniel",C,Kentucky
+1677,2010,2,51,"Rolle, Magnum",PF,Louisiana Tech
 1656,2010,1,30,"Hayward, Lazar",SF,Marquette
-1657,2010,2,31,"PleiÌÎÌª, Tibor",C,Brose Bamberg
-1658,2010,2,32,"Pittman, Dexter",C,Texas
 1659,2010,2,33,"Whiteside, Hassan",C,Marshall
-1660,2010,2,34,"Johnson, Armon",PG,Nevada
-1661,2010,2,35,"Bjelica, Nemanja",SF,Red Star Belgrade
-1662,2010,2,36,"White, Terrico",SG,Ole Miss
-1663,2010,2,37,"Hobson, Darington",SF,New Mexico
-1664,2010,2,38,"Rautins, Andy",SG,Syracuse
-1665,2010,2,39,"Fields, Landry",SG,Stanford
-1666,2010,2,40,"Stephenson, Lance",SG,Cincinnati
+1654,2010,1,28,"V��́squez, Greivis",PG,Maryland
+1648,2010,1,22,"Williams, Elliot",SG,Memphis
+1686,2010,2,60,"Collins, Dwayne",PF,Miami
 1667,2010,2,41,"Varnado, Jarvis",PF,Mississippi State
+1642,2010,1,16,"Babbitt, Luke",SF,Nevada
+1660,2010,2,34,"Johnson, Armon",PG,Nevada
+1663,2010,2,37,"Hobson, Darington",SF,New Mexico
+1639,2010,1,13,"Davis, Ed",PF,North Carolina
+1678,2010,2,52,"Harangody, Luke",PF,Notre Dame
+1628,2010,1,2,"Turner, Evan",SF/SG,Ohio State
+1673,2010,2,47,"Gallon, Tiny",PF,Oklahoma
+1680,2010,2,54,"Warren, Willie",PG,Oklahoma
+1646,2010,1,20,"Anderson, James",SG,Oklahoma State
+1662,2010,2,36,"White, Terrico",SG,Ole Miss
+1682,2010,2,56,"Ndiaye, Hamady",C,Rutgers
+1665,2010,2,39,"Fields, Landry",SG,Stanford
+1630,2010,1,4,"Johnson, Wesley",SF,Syracuse
+1664,2010,2,38,"Rautins, Andy",SG,Syracuse
+1645,2010,1,19,"Bradley, Avery",SG,Texas
+1650,2010,1,24,"James, Damion",SF,Texas
+1658,2010,2,32,"Pittman, Dexter",C,Texas
+1670,2010,2,44,"Jordan, Jerome",C,Tulsa
+1651,2010,1,25,"Jones, Dominique",SG,USF
+1684,2010,2,58,"Caracter, Derrick",PF,UTEP
+1641,2010,1,15,"Sanders, Larry",C,VCU
+1634,2010,1,8,"Aminu, Al-Farouq",SF,Wake Forest
+1652,2010,1,26,"Pondexter, Quincy",SF,Washington
 1668,2010,2,42,"Butler, Da'Sean",SF,West Virginia
 1669,2010,2,43,"Ebanks, Devin",SF,West Virginia
-1670,2010,2,44,"Jordan, Jerome",C,Tulsa
-1671,2010,2,45,"Prestes, PaulÌÎå£o",C,CB Murcia
-1672,2010,2,46,"Lawal, Gani",PF,Georgia Tech
-1673,2010,2,47,"Gallon, Tiny",PF,Oklahoma
-1674,2010,2,48,"Williams, Latavious",SF,Tulsa 66ers
-1675,2010,2,49,"Richards, Ryan",PF,CB Gran Canaria
-1676,2010,2,50,"Alabi, Solomon",C,Florida State
-1677,2010,2,51,"Rolle, Magnum",PF,Louisiana Tech
-1678,2010,2,52,"Harangody, Luke",PF,Notre Dame
-1679,2010,2,53,"Sy, Pape",SF,STB Le Havre
-1680,2010,2,54,"Warren, Willie",PG,Oklahoma
 1681,2010,2,55,"Evans, Jeremy",PF,WKU
-1682,2010,2,56,"Ndiaye, Hamady",C,Rutgers
-1683,2010,2,57,"Reid, Ryan",PF,Florida State
-1684,2010,2,58,"Caracter, Derrick",PF,UTEP
-1685,2010,2,59,"Robinson, Stanley",SF,Connecticut
-1686,2010,2,60,"Collins, Dwayne",PF,Miami
-1687,2011,1,1,"Irving, Kyrie",PG,Duke
+1653,2010,1,27,"Crawford, Jordan",SG,Xavier
 1688,2011,1,2,"Williams, Derrick",SF/PF,Arizona
-1689,2011,1,3,"Kanter, Enes",C,Kentucky
-1690,2011,1,4,"Thompson, Tristan",C/PF,Texas
-1691,2011,1,5,"ValanåÛåiåÌànas, Jonas",C,Lietuvos rytas Vilnius
-1692,2011,1,6,"VeselÌÎ_, Jan",PF,Partizan Belgrade
-1693,2011,1,7,"Biyombo, Bismack",C,Fuenlabrada
-1694,2011,1,8,"Knight, Brandon",PG,Kentucky
-1695,2011,1,9,"Walker, Kemba",PG,Connecticut
+1710,2011,1,24,"Jackson, Reggie",PG,Boston College
+1720,2011,2,34,"Mack, Shelvin",PG,Butler
 1696,2011,1,10,"Fredette, Jimmer",PG/SG,BYU
-1697,2011,1,11,"Thompson, Klay",SG,Washington State
+1714,2011,1,28,"Cole, Norris",PG,Cleveland State
+1732,2011,2,46,"Goudelock, Andrew",PG,College of Charleston
 1698,2011,1,12,"Burks, Alec",SG,Colorado
+1695,2011,1,9,"Walker, Kemba",PG,Connecticut
+1687,2011,1,1,"Irving, Kyrie",PG,Duke
+1707,2011,1,21,"Smith, Nolan",PG,Duke
+1719,2011,2,33,"Singler, Kyle",SF,Duke
+1724,2011,2,38,"Parsons, Chandler",SF,Florida
+1738,2011,2,52,"Macklin, Vernon",PF,Florida
+1704,2011,1,18,"Singleton, Chris",SF,Florida State
+1723,2011,2,37,"Thompkins, Trey",PF,Georgia
+1733,2011,2,47,"Leslie, Travis",SG,Georgia
+1703,2011,1,17,"Shumpert, Iman",SG,Georgia Tech
+1730,2011,2,44,"Jenkins, Charles",PG,Hofstra
 1699,2011,1,13,"Morris, Markieff",PF,Kansas
 1700,2011,1,14,"Morris, Marcus",PF/SF,Kansas
-1701,2011,1,15,"Leonard, Kawhi",SF,San Diego State
-1702,2011,1,16,"VuåÛåeviåÛÌÊ, Nikola",C,USC
-1703,2011,1,17,"Shumpert, Iman",SG,Georgia Tech
-1704,2011,1,18,"Singleton, Chris",SF,Florida State
-1705,2011,1,19,"Harris, Tobias",SF,Tennessee
-1706,2011,1,20,"MotiejåÌànas, Donatas",PF,Benetton Treviso
-1707,2011,1,21,"Smith, Nolan",PG,Duke
-1708,2011,1,22,"Faried, Kenneth",PF,Morehead State
-1709,2011,1,23,"MirotiåÛÌÊ, Nikola",PF,Real Madrid
-1710,2011,1,24,"Jackson, Reggie",PG,Boston College
-1711,2011,1,25,"Brooks, MarShon",SG,Providence
-1712,2011,1,26,"Hamilton, Jordan",SG,Texas
-1713,2011,1,27,"Johnson, JaJuan",PF,Purdue
-1714,2011,1,28,"Cole, Norris",PG,Cleveland State
-1715,2011,1,29,"Joseph, Cory",PG,Texas
-1716,2011,1,30,"Butler, Jimmy",SG,Marquette
-1717,2011,2,31,"BogdanoviåÛÌÊ, Bojan",SF/SG,Cibona Zagreb
-1718,2011,2,32,"Harper, Justin",PF,Richmond
-1719,2011,2,33,"Singler, Kyle",SF,Duke
-1720,2011,2,34,"Mack, Shelvin",PG,Butler
-1721,2011,2,35,"Honeycutt, Tyler",SF,UCLA
-1722,2011,2,36,"Williams, Jordan",PF,Maryland
-1723,2011,2,37,"Thompkins, Trey",PF,Georgia
-1724,2011,2,38,"Parsons, Chandler",SF,Florida
-1725,2011,2,39,"Tyler, Jeremy",PF,Tokyo Apache
-1726,2011,2,40,"Leuer, Jon",PF,Wisconsin
-1727,2011,2,41,"Morris, Darius",PG,Michigan
-1728,2011,2,42,"BertåÛåns, DåÛåvis",SF,Union Olimpija
-1729,2011,2,43,"Lee, Malcolm",SG,UCLA
-1730,2011,2,44,"Jenkins, Charles",PG,Hofstra
-1731,2011,2,45,"Harrellson, Josh",C,Kentucky
-1732,2011,2,46,"Goudelock, Andrew",PG,College of Charleston
-1733,2011,2,47,"Leslie, Travis",SG,Georgia
-1734,2011,2,48,"Benson, Keith",C,Oakland
 1735,2011,2,49,"Selby, Josh",PG,Kansas
-1736,2011,2,50,"Allen, Lavoy",PF,Temple
-1737,2011,2,51,"Diebler, Jon",SG,Ohio State
-1738,2011,2,52,"Macklin, Vernon",PF,Florida
+1689,2011,1,3,"Kanter, Enes",C,Kentucky
+1694,2011,1,8,"Knight, Brandon",PG,Kentucky
+1731,2011,2,45,"Harrellson, Josh",C,Kentucky
 1739,2011,2,53,"Liggins, DeAndre",SG,Kentucky
-1740,2011,2,54,"Macvan, Milan",PF,Maccabi Tel Aviv
+1716,2011,1,30,"Butler, Jimmy",SG,Marquette
+1722,2011,2,36,"Williams, Jordan",PF,Maryland
+1727,2011,2,41,"Morris, Darius",PG,Michigan
+1708,2011,1,22,"Faried, Kenneth",PF,Morehead State
+1734,2011,2,48,"Benson, Keith",C,Oakland
+1737,2011,2,51,"Diebler, Jon",SG,Ohio State
+1711,2011,1,25,"Brooks, MarShon",SG,Providence
+1713,2011,1,27,"Johnson, JaJuan",PF,Purdue
 1741,2011,2,55,"Moore, Etwaun",SG,Purdue
-1742,2011,2,56,"Maduabum, Chukwudiebere",PF,Bakersfield Jam
-1743,2011,2,57,"Ngombo, Tanguy",SF,Al Rayyan
-1744,2011,2,58,"Majok, Ater",PF,Gold Coast Blaze
-1745,2011,2,59,"Hanga, ÌÎådÌÎÌm",SG,Albacomp
+1718,2011,2,32,"Harper, Justin",PF,Richmond
+1701,2011,1,15,"Leonard, Kawhi",SF,San Diego State
+1736,2011,2,50,"Allen, Lavoy",PF,Temple
+1705,2011,1,19,"Harris, Tobias",SF,Tennessee
+1690,2011,1,4,"Thompson, Tristan",C/PF,Texas
+1712,2011,1,26,"Hamilton, Jordan",SG,Texas
+1715,2011,1,29,"Joseph, Cory",PG,Texas
+1721,2011,2,35,"Honeycutt, Tyler",SF,UCLA
+1729,2011,2,43,"Lee, Malcolm",SG,UCLA
+1702,2011,1,16,"Vu���evi����, Nikola",C,USC
 1746,2011,2,60,"Thomas, Isaiah",PG,Washington
-1747,2012,1,1,"Davis, Anthony",PF/C,Kentucky
-1748,2012,1,2,"Kidd-Gilchrist, Michael",SF,Kentucky
-1749,2012,1,3,"Beal, Bradley",SG,Florida
-1750,2012,1,4,"Waiters, Dion",SG,Syracuse
-1751,2012,1,5,"Robinson, Thomas",PF,Kansas
-1752,2012,1,6,"Lillard, Damian",PG,Weber St.
-1753,2012,1,7,"Barnes, Harrison",SF,North Carolina
-1754,2012,1,8,"Ross, Terrence",SG,Washington
-1755,2012,1,9,"Drummond, Andre",C,Connecticut
-1756,2012,1,10,"Rivers, Austin",SG,Duke
-1757,2012,1,11,"Leonard, Meyers",C,Illinois
-1758,2012,1,12,"Lamb, Jeremy",SG,Connecticut
-1759,2012,1,13,"Marshall, Kendall",PG,North Carolina
-1760,2012,1,14,"Henson, John",PF,North Carolina
-1761,2012,1,15,"Harkless, Maurice",SF,St. John's
-1762,2012,1,16,"White, Royce",PF,Iowa St.
-1763,2012,1,17,"Zeller, Tyler",C,North Carolina
-1764,2012,1,18,"Jones, Terrence",PF,Kentucky
-1765,2012,1,19,"Nicholson, Andrew",PF,St. Bonaventure
-1766,2012,1,20,"Fournier, Evan",SG,Poitiers Basket
-1767,2012,1,21,"Sullinger, Jared",PF,Ohio St.
-1768,2012,1,22,"Melo, Fab",C,Syracuse
-1769,2012,1,23,"Jenkins, John",SG,Vanderbilt
-1770,2012,1,24,"Cunningham, Jared",SG,Oregon St.
-1771,2012,1,25,"Wroten, Tony",PG,Washington
-1772,2012,1,26,"Plumlee, Miles",C,Duke
-1773,2012,1,27,"Moultrie, Arnett",PF,Mississippi St.
+1697,2011,1,11,"Thompson, Klay",SG,Washington State
+1726,2011,2,40,"Leuer, Jon",PF,Wisconsin
 1774,2012,1,28,"Jones III, Perry",SF,Baylor
-1775,2012,1,29,"Teague, Marquis",PG,Kentucky
-1776,2012,1,30,"Ezeli, Festus",C,Vanderbilt
-1777,2012,2,31,"Taylor, Jeffery",SF,Vanderbilt
-1778,2012,2,32,"SatoranskÌÎ_, TomÌÎÌåÌ",SG,Banca CÌÎ_vica Sevilla
-1779,2012,2,33,"James, Bernard",C,Florida St.
-1780,2012,2,34,"Crowder, Jae",SF,Marquette
-1781,2012,2,35,"Green, Draymond",PF,Michigan St.
-1782,2012,2,36,"Johnson, Orlando",SG,UC Santa Barbara
 1783,2012,2,37,"Acy, Quincy",PF,Baylor
 1784,2012,2,38,"Miller, Quincy",SF,Baylor
-1785,2012,2,39,"Middleton, Khris",SF,Texas A&M
-1786,2012,2,40,"Barton, Will",SG,Memphis
-1787,2012,2,41,"Taylor, Tyshawn",PG,Kansas
-1788,2012,2,42,"Lamb, Doron",SG,Kentucky
-1789,2012,2,43,"Scott, Mike",PF,Virginia
-1790,2012,2,44,"English, Kim",SG,Missouri
-1791,2012,2,45,"Hamilton, Justin",C,LSU
-1792,2012,2,46,"Miller, Darius",SF,Kentucky
-1793,2012,2,47,"Murphy, Kevin",SG,Tennessee Tech
-1794,2012,2,48,"Papanikolaou, Kostas",SF,Olympiacos
-1795,2012,2,49,"O'Quinn, Kyle",PF,Norfolk St.
-1796,2012,2,50,"Turkyilmaz, Izzet",PF,Banvit
-1797,2012,2,51,"Joseph, Kris",SF,Syracuse
-1798,2012,2,52,"KuzmiåÛÌÊ, Ognjen",C,Clinicas RincÌÎ_n
-1799,2012,2,53,"Aldemir, Furkan",PF,Galatasaray
-1800,2012,2,54,"Shengelia, Tornike",SF,Spirou Charleroi
-1801,2012,2,55,"Johnson-Odom, Darius",SG,Marquette
-1802,2012,2,56,"ZubåÛåiåÛÌÊ, Tomislav",PF,Cibona Zagreb
-1803,2012,2,57,"Karaman, åÛåÁlkan",PF,PåÛå±nar KaråÌªåÛå±yaka
-1804,2012,2,58,"Hummel, Robbie",SF,Purdue
-1805,2012,2,59,"Denmon, Marcus",PG,Missouri
+1755,2012,1,9,"Drummond, Andre",C,Connecticut
+1758,2012,1,12,"Lamb, Jeremy",SG,Connecticut
+1756,2012,1,10,"Rivers, Austin",SG,Duke
+1772,2012,1,26,"Plumlee, Miles",C,Duke
+1749,2012,1,3,"Beal, Bradley",SG,Florida
+1779,2012,2,33,"James, Bernard",C,Florida St.
 1806,2012,2,60,"Sacre, Robert",C,Gonzaga
-1807,2013,1,1,"Bennett, Anthony",PF/SF,UNLV
-1808,2013,1,2,"Oladipo, Victor",SG/PG,Indiana
-1809,2013,1,3,"Porter, Otto",SF,Georgetown
-1810,2013,1,4,"Zeller, Cody",C/PF,Indiana
-1811,2013,1,5,"Len, Alex",C,Maryland
-1812,2013,1,6,"Noel, Nerlens",C,Kentucky
-1813,2013,1,7,"McLemore, Ben",SG,Kansas
-1814,2013,1,8,"Caldwell-Pope, Kentavious",SG,Georgia
-1815,2013,1,9,"Burke, Trey",PG,Michigan
-1816,2013,1,10,"McCollum, C. J.",SG,Lehigh
-1817,2013,1,11,"Carter-Williams, Michael",PG,Syracuse
-1818,2013,1,12,"Adams, Steven",C,Pittsburgh
-1819,2013,1,13,"Olynyk, Kelly",C,Gonzaga
-1820,2013,1,14,"Muhammad, Shabazz",SG/SF,UCLA
-1821,2013,1,15,"Antetokounmpo, Giannis",SF/PF,Filathlitikos
-1822,2013,1,16,"Nogueira, Lucas",C,Estudiantes
-1823,2013,1,17,"SchrÌÎå_der, Dennis",PG,Phantoms Braunschweig
-1824,2013,1,18,"Larkin, Shane",PG,Miami (FL)
-1825,2013,1,19,"Karasev, Sergey",SG/SF,Triumph Lyubertsy
-1826,2013,1,20,"Snell, Tony",SF,New Mexico
-1827,2013,1,21,"Dieng, Gorgui",C,Louisville
-1828,2013,1,22,"Plumlee, Mason",C,Duke
+1757,2012,1,11,"Leonard, Meyers",C,Illinois
+1762,2012,1,16,"White, Royce",PF,Iowa St.
+1751,2012,1,5,"Robinson, Thomas",PF,Kansas
+1787,2012,2,41,"Taylor, Tyshawn",PG,Kansas
+1747,2012,1,1,"Davis, Anthony",PF/C,Kentucky
+1748,2012,1,2,"Kidd-Gilchrist, Michael",SF,Kentucky
+1764,2012,1,18,"Jones, Terrence",PF,Kentucky
+1775,2012,1,29,"Teague, Marquis",PG,Kentucky
+1788,2012,2,42,"Lamb, Doron",SG,Kentucky
+1792,2012,2,46,"Miller, Darius",SF,Kentucky
+1791,2012,2,45,"Hamilton, Justin",C,LSU
+1780,2012,2,34,"Crowder, Jae",SF,Marquette
+1801,2012,2,55,"Johnson-Odom, Darius",SG,Marquette
+1786,2012,2,40,"Barton, Will",SG,Memphis
+1781,2012,2,35,"Green, Draymond",PF,Michigan St.
+1773,2012,1,27,"Moultrie, Arnett",PF,Mississippi St.
+1790,2012,2,44,"English, Kim",SG,Missouri
+1805,2012,2,59,"Denmon, Marcus",PG,Missouri
+1795,2012,2,49,"O'Quinn, Kyle",PF,Norfolk St.
+1753,2012,1,7,"Barnes, Harrison",SF,North Carolina
+1759,2012,1,13,"Marshall, Kendall",PG,North Carolina
+1760,2012,1,14,"Henson, John",PF,North Carolina
+1763,2012,1,17,"Zeller, Tyler",C,North Carolina
+1767,2012,1,21,"Sullinger, Jared",PF,Ohio St.
+1770,2012,1,24,"Cunningham, Jared",SG,Oregon St.
+1804,2012,2,58,"Hummel, Robbie",SF,Purdue
+1765,2012,1,19,"Nicholson, Andrew",PF,St. Bonaventure
+1761,2012,1,15,"Harkless, Maurice",SF,St. John's
+1750,2012,1,4,"Waiters, Dion",SG,Syracuse
+1768,2012,1,22,"Melo, Fab",C,Syracuse
+1797,2012,2,51,"Joseph, Kris",SF,Syracuse
+1793,2012,2,47,"Murphy, Kevin",SG,Tennessee Tech
+1785,2012,2,39,"Middleton, Khris",SF,Texas A&M
+1782,2012,2,36,"Johnson, Orlando",SG,UC Santa Barbara
+1769,2012,1,23,"Jenkins, John",SG,Vanderbilt
+1776,2012,1,30,"Ezeli, Festus",C,Vanderbilt
+1777,2012,2,31,"Taylor, Jeffery",SF,Vanderbilt
+1789,2012,2,43,"Scott, Mike",PF,Virginia
+1754,2012,1,8,"Ross, Terrence",SG,Washington
+1771,2012,1,25,"Wroten, Tony",PG,Washington
+1752,2012,1,6,"Lillard, Damian",PG,Weber St.
 1829,2013,1,23,"Hill, Solomon",SF,Arizona
-1830,2013,1,24,"Hardaway Jr., Tim",SG,Michigan
-1831,2013,1,25,"Bullock, Reggie",SF,North Carolina
-1832,2013,1,26,"Roberson, AndrÌÎå©",SG/SF,Colorado
-1833,2013,1,27,"Gobert, Rudy",C,Cholet Basket
-1834,2013,1,28,"Jean-Charles, Livio",SF,ASVEL Basket
-1835,2013,1,29,"Goodwin, Archie",SG,Kentucky
-1836,2013,1,30,"NedoviåÛÌÊ, Nemanja",PG,Lietuvos Rytas
-1837,2013,2,31,"Crabbe, Allen",SG,California
-1838,2013,2,32,"Abrines, ÌÎålex",SG/SF,FC Barcelona
-1839,2013,2,33,"Felix, Carrick",SG,Arizona State
-1840,2013,2,34,"Canaan, Isaiah",PG,Murray State
-1841,2013,2,35,"Rice Jr., Glen",SG,Rio Grande Valley Vipers
-1842,2013,2,36,"McCallum Jr., Ray",PG,Detroit
-1843,2013,2,37,"Mitchell, Tony",PF,North Texas
-1844,2013,2,38,"Wolters, Nate",PG,South Dakota State
-1845,2013,2,39,"Withey, Jeff",C,Kansas
 1846,2013,2,40,"Jerrett, Grant",PF,Arizona
-1847,2013,2,41,"Franklin, Jamaal",SG,San Diego State
+1839,2013,2,33,"Felix, Carrick",SG,Arizona State
 1848,2013,2,42,"Jackson, Pierre",PG,Baylor
-1849,2013,2,43,"Ledo, Ricky",SG,Providence
 1850,2013,2,44,"Muscala, Mike",C,Bucknell
-1851,2013,2,45,"TodoroviåÛÌÊ, Marko",PF/C,FC Barcelona
-1852,2013,2,46,"Green, Erick",PG,Virginia Tech
-1853,2013,2,47,"Neto, Raul",PG,Gipuzkoa Basket
+1837,2013,2,31,"Crabbe, Allen",SG,California
+1832,2013,1,26,"Roberson, Andr���",SG/SF,Colorado
+1859,2013,2,53,"Iverson, Colton",C,Colorado State
+1842,2013,2,36,"McCallum Jr., Ray",PG,Detroit
+1828,2013,1,22,"Plumlee, Mason",C,Duke
 1854,2013,2,48,"Kelly, Ryan",PF,Duke
 1855,2013,2,49,"Murphy, Erik",PF,Florida
+1809,2013,1,3,"Porter, Otto",SF,Georgetown
+1814,2013,1,8,"Caldwell-Pope, Kentavious",SG,Georgia
+1819,2013,1,13,"Olynyk, Kelly",C,Gonzaga
+1808,2013,1,2,"Oladipo, Victor",SG/PG,Indiana
+1810,2013,1,4,"Zeller, Cody",C/PF,Indiana
+1813,2013,1,7,"McLemore, Ben",SG,Kansas
+1845,2013,2,39,"Withey, Jeff",C,Kansas
+1812,2013,1,6,"Noel, Nerlens",C,Kentucky
+1835,2013,1,29,"Goodwin, Archie",SG,Kentucky
+1816,2013,1,10,"McCollum, C. J.",SG,Lehigh
 1856,2013,2,50,"Ennis, James",SF,Long Beach State
-1857,2013,2,51,"Osby, Romero",PF,Oklahoma
-1858,2013,2,52,"Brown, Lorenzo",PG,NC State
-1859,2013,2,53,"Iverson, Colton",C,Colorado State
-1860,2013,2,54,"Kazemi, Arsalan",PF,Oregon
-1861,2013,2,55,"Lauvergne, Joffrey",C,Partizan Belgrade
+1827,2013,1,21,"Dieng, Gorgui",C,Louisville
 1862,2013,2,56,"Siva, Peyton",PG,Louisville
+1811,2013,1,5,"Len, Alex",C,Maryland
+1824,2013,1,18,"Larkin, Shane",PG,Miami (FL)
+1815,2013,1,9,"Burke, Trey",PG,Michigan
+1830,2013,1,24,"Hardaway Jr., Tim",SG,Michigan
 1863,2013,2,57,"Oriakhi, Alex",C,Missouri
+1840,2013,2,34,"Canaan, Isaiah",PG,Murray State
+1858,2013,2,52,"Brown, Lorenzo",PG,NC State
+1826,2013,1,20,"Snell, Tony",SF,New Mexico
+1831,2013,1,25,"Bullock, Reggie",SF,North Carolina
+1843,2013,2,37,"Mitchell, Tony",PF,North Texas
 1864,2013,2,58,"Thomas, Deshaun",SF,Ohio State
-1865,2013,2,59,"DubljeviåÛÌÊ, Bojan",PF,Valencia Basket
-1866,2013,2,60,"Timma, JåÛånis",SF,BK Ventspils
-1867,2014,1,1,"Wiggins, Andrew",SF/SG,Kansas
-1868,2014,1,2,"Parker, Jabari",SF/PF,Duke
-1869,2014,1,3,"Embiid, Joel",C,Kansas
+1857,2013,2,51,"Osby, Romero",PF,Oklahoma
+1860,2013,2,54,"Kazemi, Arsalan",PF,Oregon
+1818,2013,1,12,"Adams, Steven",C,Pittsburgh
+1849,2013,2,43,"Ledo, Ricky",SG,Providence
+1847,2013,2,41,"Franklin, Jamaal",SG,San Diego State
+1844,2013,2,38,"Wolters, Nate",PG,South Dakota State
+1817,2013,1,11,"Carter-Williams, Michael",PG,Syracuse
+1820,2013,1,14,"Muhammad, Shabazz",SG/SF,UCLA
+1807,2013,1,1,"Bennett, Anthony",PF/SF,UNLV
+1852,2013,2,46,"Green, Erick",PG,Virginia Tech
 1870,2014,1,4,"Gordon, Aaron",PF,Arizona
-1871,2014,1,5,"Exum, Dante",PG/SG,Australian Institute of Sport
-1872,2014,1,6,"Smart, Marcus",PG,Oklahoma State
-1873,2014,1,7,"Randle, Julius",PF,Kentucky
-1874,2014,1,8,"Stauskas, Nik",SG,Michigan
-1875,2014,1,9,"Vonleh, Noah",PF,Indiana
-1876,2014,1,10,"Payton, Elfrid",PG,LouisianaåäÌÝÌÕLafayette
-1877,2014,1,11,"McDermott, Doug",SF,Creighton
-1878,2014,1,12,"Saric, Dario",SF/PF,Cibona Zagreb
-1879,2014,1,13,"LaVine, Zach",SG,UCLA
-1880,2014,1,14,"Warren, T. J.",SF,North Carolina State
-1881,2014,1,15,"Payne, Adreian",PF,Michigan State
-1882,2014,1,16,"NurkiåÛÌÊ, Jusuf",C,Cedevita Zagreb
-1883,2014,1,17,"Young, James",SG/SF,Kentucky
-1884,2014,1,18,"Ennis, Tyler",PG,Syracuse
-1885,2014,1,19,"Harris, Gary",SG,Michigan State
-1886,2014,1,20,"Caboclo, Bruno",SF,EC Pinheiros
-1887,2014,1,21,"McGary, Mitch",PF,Michigan
-1888,2014,1,22,"Adams, Jordan",SG,UCLA
-1889,2014,1,23,"Hood, Rodney",SG,Duke
-1890,2014,1,24,"Napier, Shabazz",PG,Connecticut
-1891,2014,1,25,"Capela, Clint",C,ÌÎÌ_lan Chalon
-1892,2014,1,26,"Hairston, P. J.",SG,Texas Legends
-1893,2014,1,27,"BogdanoviåÛÌÊ, Bogdan",SG,Partizan Belgrade
-1894,2014,1,28,"Wilcox, C. J.",SG,Washington
-1895,2014,1,29,"Huestis, Josh",SF/PF,Stanford
-1896,2014,1,30,"Anderson, Kyle",SF,UCLA
-1897,2014,2,31,"Inglis, Damien",SF,Chorale Roanne
-1898,2014,2,32,"McDaniels, K. J.",SF,Clemson
-1899,2014,2,33,"Harris, Joe",SG,Virginia
-1900,2014,2,34,"Early, Cleanthony",SF,Wichita State
-1901,2014,2,35,"Stokes, Jarnell",PF,Tennessee
-1902,2014,2,36,"O'Bryant III, Johnny",PF,Louisiana State
-1903,2014,2,37,"Daniels, DeAndre",SF,Connecticut
-1904,2014,2,38,"Dinwiddie, Spencer",PG/SG,Colorado
-1905,2014,2,39,"Grant, Jerami",SF,Syracuse
-1906,2014,2,40,"Robinson III, Glenn",SF,Michigan
-1907,2014,2,41,"JokiåÛÌÊ, Nikola",PF/C,Mega Vizura
 1908,2014,2,42,"Johnson, Nick",PG/SG,Arizona
-1909,2014,2,43,"Tavares, Walter",C,CB Gran Canaria
-1910,2014,2,44,"Brown, Markel",SG,Oklahoma State
-1911,2014,2,45,"Powell, Dwight",PF,Stanford
-1912,2014,2,46,"Clarkson, Jordan",PG,Missouri
-1913,2014,2,47,"Smith, Russ",PG/SG,Louisville
-1914,2014,2,48,"Patterson, Lamar",SG/SF,Pittsburgh
-1915,2014,2,49,"Bairstow, Cameron",PF/C,New Mexico
-1916,2014,2,50,"Brown, Alec",C,Green Bay
-1917,2014,2,51,"Antetokounmpo, Thanasis",SF,Delaware 87ers
-1918,2014,2,52,"MiciåÛÌÊ, Vasilije",PG,Mega Vizura
-1919,2014,2,53,"Gentile, Alessandro",SF,Olimpia Milano
-1920,2014,2,54,"DangubiåÛÌÊ, Nemanja",SG,Mega Vizura
-1921,2014,2,55,"Christon, Semaj",PG,Xavier
-1922,2014,2,56,"Marble, Devyn",SG/SF,Iowa
-1923,2014,2,57,"Labeyrie, Louis",PF/C,Paris-Levallois Basket
-1924,2014,2,58,"McRae, Jordan",SG,Tennessee
-1925,2014,2,59,"Thames, Xavier",PG/SG,San Diego State
 1926,2014,2,60,"Jefferson, Cory",PF,Baylor
-1927,2015,1,1,"Towns, Karl-Anthony",C,Kentucky
-1928,2015,1,2,"Russell, D'Angelo",PG,Ohio State
-1929,2015,1,3,"Okafor, Jahlil",C,Duke
-1930,2015,1,4,"PorziååÊåÛå£is, Kristaps",PF/C,Baloncesto Sevilla
-1931,2015,1,5,"Hezonja, Mario",SG/SF,FC Barcelona
-1932,2015,1,6,"Cauley-Stein, Willie",C,Kentucky
-1933,2015,1,7,"Mudiay, Emmanuel",PG,Guangdong Southern Tigers
+1898,2014,2,32,"McDaniels, K. J.",SF,Clemson
+1904,2014,2,38,"Dinwiddie, Spencer",PG/SG,Colorado
+1890,2014,1,24,"Napier, Shabazz",PG,Connecticut
+1903,2014,2,37,"Daniels, DeAndre",SF,Connecticut
+1877,2014,1,11,"McDermott, Doug",SF,Creighton
+1868,2014,1,2,"Parker, Jabari",SF/PF,Duke
+1889,2014,1,23,"Hood, Rodney",SG,Duke
+1916,2014,2,50,"Brown, Alec",C,Green Bay
+1875,2014,1,9,"Vonleh, Noah",PF,Indiana
+1922,2014,2,56,"Marble, Devyn",SG/SF,Iowa
+1867,2014,1,1,"Wiggins, Andrew",SF/SG,Kansas
+1869,2014,1,3,"Embiid, Joel",C,Kansas
+1873,2014,1,7,"Randle, Julius",PF,Kentucky
+1883,2014,1,17,"Young, James",SG/SF,Kentucky
+1902,2014,2,36,"O'Bryant III, Johnny",PF,Louisiana State
+1876,2014,1,10,"Payton, Elfrid",PG,Louisiana Lafayette
+1913,2014,2,47,"Smith, Russ",PG/SG,Louisville
+1874,2014,1,8,"Stauskas, Nik",SG,Michigan
+1887,2014,1,21,"McGary, Mitch",PF,Michigan
+1906,2014,2,40,"Robinson III, Glenn",SF,Michigan
+1881,2014,1,15,"Payne, Adreian",PF,Michigan State
+1885,2014,1,19,"Harris, Gary",SG,Michigan State
+1912,2014,2,46,"Clarkson, Jordan",PG,Missouri
+1915,2014,2,49,"Bairstow, Cameron",PF/C,New Mexico
+1880,2014,1,14,"Warren, T. J.",SF,North Carolina State
+1872,2014,1,6,"Smart, Marcus",PG,Oklahoma State
+1910,2014,2,44,"Brown, Markel",SG,Oklahoma State
+1914,2014,2,48,"Patterson, Lamar",SG/SF,Pittsburgh
+1925,2014,2,59,"Thames, Xavier",PG/SG,San Diego State
+1895,2014,1,29,"Huestis, Josh",SF/PF,Stanford
+1911,2014,2,45,"Powell, Dwight",PF,Stanford
+1884,2014,1,18,"Ennis, Tyler",PG,Syracuse
+1905,2014,2,39,"Grant, Jerami",SF,Syracuse
+1901,2014,2,35,"Stokes, Jarnell",PF,Tennessee
+1924,2014,2,58,"McRae, Jordan",SG,Tennessee
+1879,2014,1,13,"LaVine, Zach",SG,UCLA
+1888,2014,1,22,"Adams, Jordan",SG,UCLA
+1896,2014,1,30,"Anderson, Kyle",SF,UCLA
+1899,2014,2,33,"Harris, Joe",SG,Virginia
+1894,2014,1,28,"Wilcox, C. J.",SG,Washington
+1900,2014,2,34,"Early, Cleanthony",SF,Wichita State
+1921,2014,2,55,"Christon, Semaj",PG,Xavier
 1934,2015,1,8,"Johnson, Stanley",SF,Arizona
-1935,2015,1,9,"Kaminsky, Frank",C,Wisconsin
+1949,2015,1,23,"Hollis-Jefferson, Rondae",SF,Arizona
+1948,2015,1,22,"Portis, Bobby",PF,Arkansas
+1968,2015,2,42,"Hanlan, Olivier",PG,Boston College
+1963,2015,2,37,"Holmes, Richaun",SF/PF,Bowling Green
+1929,2015,1,3,"Okafor, Jahlil",C,Duke
 1936,2015,1,10,"Winslow, Justise",SF,Duke
-1937,2015,1,11,"Turner, Myles",C,Texas
+1950,2015,1,24,"Jones, Tyus",PG,Duke
+1977,2015,2,51,"Harvey, Tyler",PG,Eastern Washington
+1954,2015,1,28,"Hunter, R. J.",SG,Georgia State
+1975,2015,2,49,"White, Aaron",PF,Iowa
+1941,2015,1,15,"Oubre Jr., Kelly",SG,Kansas
+1927,2015,1,1,"Towns, Karl-Anthony",C,Kentucky
+1932,2015,1,6,"Cauley-Stein, Willie",C,Kentucky
 1938,2015,1,12,"Lyles, Trey",PF,Kentucky
 1939,2015,1,13,"Booker, Devin",SG,Kentucky
-1940,2015,1,14,"Payne, Cameron",PG,Murray State
-1941,2015,1,15,"Oubre Jr., Kelly",SG,Kansas
-1942,2015,1,16,"Rozier, Terry",PG,Louisville
-1943,2015,1,17,"Vaughn, Rashad",SG,UNLV
-1944,2015,1,18,"Dekker, Sam",SF,Wisconsin
-1945,2015,1,19,"Grant, Jerian",PG,Notre Dame
-1946,2015,1,20,"Wright, Delon",PG,Utah
-1947,2015,1,21,"Anderson, Justin",SF,Virginia
-1948,2015,1,22,"Portis, Bobby",PF,Arkansas
-1949,2015,1,23,"Hollis-Jefferson, Rondae",SF,Arizona
-1950,2015,1,24,"Jones, Tyus",PG,Duke
-1951,2015,1,25,"Martin, Jarell",PF,LSU
-1952,2015,1,26,"Milutinov, Nikola",C,Partizan Belgrade
-1953,2015,1,27,"Nance Jr., Larry",PF,Wyoming
-1954,2015,1,28,"Hunter, R. J.",SG,Georgia State
-1955,2015,1,29,"McCullough, Chris",PF,Syracuse
-1956,2015,1,30,"Looney, Kevon",PF,UCLA
-1957,2015,2,31,"Osman, Cedi",SG/SF,Anadolu Efes
-1958,2015,2,32,"Harrell, Montrezl",PF,Louisville
-1959,2015,2,33,"Mickey, Jordan",PF,LSU
-1960,2015,2,34,"Brown, Anthony",SF,Stanford
-1961,2015,2,35,"HernangÌÎ_mez, Willy",C,Baloncesto Sevilla
-1962,2015,2,36,"Christmas, Rakeem",PF/C,Syracuse
-1963,2015,2,37,"Holmes, Richaun",SF/PF,Bowling Green
-1964,2015,2,38,"Hilliard, Darrun",SG,Villanova
-1965,2015,2,39,"Vaulet, Juan Pablo",SF,Estudiantes de BahÌÎ_a
-1966,2015,2,40,"Richardson, Josh",SG,Tennessee
-1967,2015,2,41,"Connaughton, Pat",SF,Notre Dame
-1968,2015,2,42,"Hanlan, Olivier",PG,Boston College
-1969,2015,2,43,"Young, Joseph",PG,Oregon
 1970,2015,2,44,"Harrison, Andrew",PG,Kentucky
-1971,2015,2,45,"Thornton, Marcus",PG,William & Mary
-1972,2015,2,46,"Powell, Norman",SG,UCLA
-1973,2015,2,47,"Gudaitis, ArtåÌàras",C,å_algiris Kaunas
 1974,2015,2,48,"Johnson, Dakari",C,Kentucky
-1975,2015,2,49,"White, Aaron",PF,Iowa
-1976,2015,2,50,"Eriksson, Marcus",SG,FC Barcelona
-1977,2015,2,51,"Harvey, Tyler",PG,Eastern Washington
-1978,2015,2,52,"Bhamara, Satnam Singh",C,IMG Academy
-1979,2015,2,53,"Pointer, Sir'Dominic",SF,St. John's
-1980,2015,2,54,"DÌÎ_ez, Dani",SF,Gipuzkoa Basket
+1942,2015,1,16,"Rozier, Terry",PG,Louisville
+1958,2015,2,32,"Harrell, Montrezl",PF,Louisville
+1951,2015,1,25,"Martin, Jarell",PF,LSU
+1959,2015,2,33,"Mickey, Jordan",PF,LSU
 1981,2015,2,55,"Lalanne, Cady",PF,Massachusetts
 1982,2015,2,56,"Dawson, Branden",SF,Michigan State
-1983,2015,2,57,"RadiåÛåeviåÛÌÊ, Nikola",PG,Baloncesto Sevilla
+1940,2015,1,14,"Payne, Cameron",PG,Murray State
 1984,2015,2,58,"Tokoto, J. P.",SG/SF,North Carolina
-1985,2015,2,59,"Agravanis, Dimitrios",PF,Olympiacos
-1986,2015,2,60,"MitroviåÛÌÊ, Luka",PF,Red Star Belgrade
-1987,2016,1,1,"Simmons, Ben",PF/PG,LSU
-1988,2016,1,2,"Ingram, Brandon",SF,Duke
-1989,2016,1,3,"Brown, Jaylen",SF/SG,California
-1990,2016,1,4,"Bender, Dragan",PF/C,Maccabi FOX Tel Aviv
-1991,2016,1,5,"Dunn, Kris",PG,Providence
-1992,2016,1,6,"Hield, Buddy",SG,Oklahoma
-1993,2016,1,7,"Murray, Jamal",SG/PG,Kentucky
-1994,2016,1,8,"Chriss, Marquese",PF,Washington
-1995,2016,1,9,"Poeltl, Jakob",C,Utah
-1996,2016,1,10,"Maker, Thon",PF,Orangeville Prep
-1997,2016,1,11,"Sabonis, Domantas",PF/C,Gonzaga
+1945,2015,1,19,"Grant, Jerian",PG,Notre Dame
+1967,2015,2,41,"Connaughton, Pat",SF,Notre Dame
+1928,2015,1,2,"Russell, D'Angelo",PG,Ohio State
+1969,2015,2,43,"Young, Joseph",PG,Oregon
+1979,2015,2,53,"Pointer, Sir'Dominic",SF,St. John's
+1960,2015,2,34,"Brown, Anthony",SF,Stanford
+1955,2015,1,29,"McCullough, Chris",PF,Syracuse
+1962,2015,2,36,"Christmas, Rakeem",PF/C,Syracuse
+1966,2015,2,40,"Richardson, Josh",SG,Tennessee
+1937,2015,1,11,"Turner, Myles",C,Texas
+1956,2015,1,30,"Looney, Kevon",PF,UCLA
+1972,2015,2,46,"Powell, Norman",SG,UCLA
+1943,2015,1,17,"Vaughn, Rashad",SG,UNLV
+1946,2015,1,20,"Wright, Delon",PG,Utah
+1964,2015,2,38,"Hilliard, Darrun",SG,Villanova
+1947,2015,1,21,"Anderson, Justin",SF,Virginia
+1971,2015,2,45,"Thornton, Marcus",PG,William & Mary
+1935,2015,1,9,"Kaminsky, Frank",C,Wisconsin
+1944,2015,1,18,"Dekker, Sam",SF,Wisconsin
+1953,2015,1,27,"Nance Jr., Larry",PF,Wyoming
 1998,2016,1,12,"Prince, Taurean",PF,Baylor
-1999,2016,1,13,"Papagiannis, Georgios",C,Panathinaikos
-2000,2016,1,14,"Valentine, Denzel",SG/SF,Michigan State
-2001,2016,1,15,"HernangÌÎ_mez, Juan",SF/PF,Movistar Estudiantes
-2002,2016,1,16,"Yabusele, Guerschon",PF,Rouen MÌÎå©tropole
-2003,2016,1,17,"Baldwin IV, Wade",PG,Vanderbilt
-2004,2016,1,18,"Ellenson, Henry",PF,Marquette
-2005,2016,1,19,"Beasley, Malik",SG,Florida State
-2006,2016,1,20,"LeVert, Caris",SG,Michigan
-2007,2016,1,21,"Bembry, DeAndre'",SF,Saint Joseph's
-2008,2016,1,22,"Richardson, Malachi",SG,Syracuse
-2009,2016,1,23,"å_iå_iåÛÌÊ, Ante",C,KK Cibona
-2010,2016,1,24,"Luwawu-Cabarrot, TimothÌÎå©",SG/SF,Mega Leks
-2011,2016,1,25,"Johnson, Brice",PF,North Carolina
-2012,2016,1,26,"Korkmaz, Furkan",SG/SF,Anadolu Efes
-2013,2016,1,27,"Siakam, Pascal",PF,New Mexico State
-2014,2016,1,28,"LabissiÌÎåÂre, Skal",PF/C,Kentucky
-2015,2016,1,29,"Murray, Dejounte",PG/SG,Washington
-2016,2016,1,30,"Jones, Damian",C,Vanderbilt
-2017,2016,2,31,"Davis, Deyonta",PF/C,Michigan State
-2018,2016,2,32,"Zubac, Ivica",C,Mega Leks
-2019,2016,2,33,"Diallo, Cheick",PF/C,Kansas
-2020,2016,2,34,"Ulis, Tyler",PG,Kentucky
-2021,2016,2,35,"Zagorac, Rade",SG/SF,Mega Leks
-2022,2016,2,36,"Brogdon, Malcolm",PG/SG,Virginia
-2023,2016,2,37,"Onuaku, Chinanu",PF/C,Louisville
-2024,2016,2,38,"McCaw, Patrick",SG/SF,UNLV
-2025,2016,2,39,"Michineau, David",PG,Elan !
-2026,2016,2,40,"Stone, Diamond",C,Maryland
-2027,2016,2,41,"Zimmerman, Stephen",PF/C,UNLV
-2028,2016,2,42,"Whitehead, Isaiah",PG/SG,Seton Hall
-2029,2016,2,43,"Zhou Qi,",C,Xinjiang Flying Tigers
-2030,2016,2,44,"Cordinier, Isaia",SG,ASC Denain-Voltaire
-2031,2016,2,45,"Jackson, Demetrius",PG,Notre Dame
-2032,2016,2,46,"Hammons, A. J.",C,Purdue
-2033,2016,2,47,"Layman, Jake",SF,Maryland
-2034,2016,2,48,"Zipser, Paul",SG/SF,FC Bayern Munich
-2035,2016,2,49,"Gbinije, Michael",SF,Syracuse
-2036,2016,2,50,"Niang, Georges",PF,Iowa State
-2037,2016,2,51,"Bentil, Ben",PF,Providence
-2038,2016,2,52,"Bolomboy, Joel",PF/C,Weber State
-2039,2016,2,53,"Cornelie, Petr",PF,Le Mans Sarthe
-2040,2016,2,54,"Felder, Kay",PG,Oakland
-2041,2016,2,55,"Paige, Marcus",PG,North Carolina
-2042,2016,2,56,"Hamilton, Daniel",SG/SF,Connecticut
-2043,2016,2,57,"Wang Zhelin,",C,Fujian Sturgeons
-2044,2016,2,58,"Nader, Abdel",SF,Iowa State
-2045,2016,2,59,"Cousins, Isaiah",PG/SG,Oklahoma
+1989,2016,1,3,"Brown, Jaylen",SF/SG,California
 2046,2016,2,60,"Wallace, Tyrone",PG,California
-2047,2017,1,1,"Fultz, Markelle",PG/SG,Washington
-2048,2017,1,2,"Ball, Lonzo",PG,UCLA
-2049,2017,1,3,"Tatum, Jayson",SF,Duke
-2050,2017,1,4,"Jackson, Josh",SF,Kansas
-2051,2017,1,5,"Fox, De'Aaron",PG,Kentucky
-2052,2017,1,6,"Isaac, Jonathan",SF/PF,Florida State
+2042,2016,2,56,"Hamilton, Daniel",SG/SF,Connecticut
+1988,2016,1,2,"Ingram, Brandon",SF,Duke
+2005,2016,1,19,"Beasley, Malik",SG,Florida State
+1997,2016,1,11,"Sabonis, Domantas",PF/C,Gonzaga
+2036,2016,2,50,"Niang, Georges",PF,Iowa State
+2044,2016,2,58,"Nader, Abdel",SF,Iowa State
+2019,2016,2,33,"Diallo, Cheick",PF/C,Kansas
+1993,2016,1,7,"Murray, Jamal",SG/PG,Kentucky
+2014,2016,1,28,"Labissi����re, Skal",PF/C,Kentucky
+2020,2016,2,34,"Ulis, Tyler",PG,Kentucky
+2023,2016,2,37,"Onuaku, Chinanu",PF/C,Louisville
+1987,2016,1,1,"Simmons, Ben",PF/PG,LSU
+2004,2016,1,18,"Ellenson, Henry",PF,Marquette
+2026,2016,2,40,"Stone, Diamond",C,Maryland
+2033,2016,2,47,"Layman, Jake",SF,Maryland
+2006,2016,1,20,"LeVert, Caris",SG,Michigan
+2000,2016,1,14,"Valentine, Denzel",SG/SF,Michigan State
+2017,2016,2,31,"Davis, Deyonta",PF/C,Michigan State
+2013,2016,1,27,"Siakam, Pascal",PF,New Mexico State
+2011,2016,1,25,"Johnson, Brice",PF,North Carolina
+2041,2016,2,55,"Paige, Marcus",PG,North Carolina
+2031,2016,2,45,"Jackson, Demetrius",PG,Notre Dame
+2040,2016,2,54,"Felder, Kay",PG,Oakland
+1992,2016,1,6,"Hield, Buddy",SG,Oklahoma
+2045,2016,2,59,"Cousins, Isaiah",PG/SG,Oklahoma
+1991,2016,1,5,"Dunn, Kris",PG,Providence
+2037,2016,2,51,"Bentil, Ben",PF,Providence
+2032,2016,2,46,"Hammons, A. J.",C,Purdue
+2007,2016,1,21,"Bembry, DeAndre'",SF,Saint Joseph's
+2028,2016,2,42,"Whitehead, Isaiah",PG/SG,Seton Hall
+2008,2016,1,22,"Richardson, Malachi",SG,Syracuse
+2035,2016,2,49,"Gbinije, Michael",SF,Syracuse
+2024,2016,2,38,"McCaw, Patrick",SG/SF,UNLV
+2027,2016,2,41,"Zimmerman, Stephen",PF/C,UNLV
+1995,2016,1,9,Poeltl,C,Utah
+2003,2016,1,17,"Baldwin IV, Wade",PG,Vanderbilt
+2016,2016,1,30,"Jones, Damian",C,Vanderbilt
+2022,2016,2,36,"Brogdon, Malcolm",PG/SG,Virginia
+1994,2016,1,8,"Chriss, Marquese",PF,Washington
+2015,2016,1,29,"Murray, Dejounte",PG/SG,Washington
+2038,2016,2,52,"Bolomboy, Joel",PF/C,Weber State
 2053,2017,1,7,"Markkanen, Lauri",PF,Arizona
-2054,2017,1,8,"Ntilikina, Frank",PG,SIG Strasbourg
-2055,2017,1,9,"Smith Jr., Dennis",PG,NC State
-2056,2017,1,10,"Collins, Zach",C/PF,Gonzaga
-2057,2017,1,11,"Monk, Malik",SG,Kentucky
-2058,2017,1,12,"Kennard, Luke",SG,Duke
-2059,2017,1,13,"Mitchell, Donovan",SG,Louisville
-2060,2017,1,14,"Adebayo, Bam",PF/C,Kentucky
-2061,2017,1,15,"Jackson, Justin",SF,North Carolina
-2062,2017,1,16,"Patton, Justin",C,Creighton
-2063,2017,1,17,"Wilson, D. J.",PF/SF,Michigan
-2064,2017,1,18,"Leaf, T. J.",PF,UCLA
-2065,2017,1,19,"Collins, John",PF,Wake Forest
-2066,2017,1,20,"Giles, Harry",PF/C,Duke
-2067,2017,1,21,"Ferguson, Terrance",SG,Adelaide 36ers
-2068,2017,1,22,"Allen, Jarrett",C,Texas
-2069,2017,1,23,"Anunoby, OG",SF,Indiana
-2070,2017,1,24,"Lydon, Tyler",PF,Syracuse
-2071,2017,1,25,"PaseåÛåååÊiks, Anå_ejs",C,Herbalife Gran Canaria
-2072,2017,1,26,"Swanigan, Caleb",PF,Purdue
-2073,2017,1,27,"Kuzma, Kyle",PF,Utah
-2074,2017,1,28,"Bradley, Tony",PF/C,North Carolina
-2075,2017,1,29,"White, Derrick",PG/SG,Colorado
-2076,2017,1,30,"Hart, Josh",SG,Villanova
-2077,2017,2,31,"Jackson, Frank",PG,Duke
-2078,2017,2,32,"Reed, Davon",SG,Miami
-2079,2017,2,33,"Iwundu, Wes",SF,Kansas State
-2080,2017,2,34,"Mason III, Frank",PG,Kansas
-2081,2017,2,35,"Rabb, Ivan",PF,California
-2082,2017,2,36,"Bolden, Jonah",PF,FMP Beograd
-2083,2017,2,37,"Ojeleye, Semi",SF/PF,SMU
-2084,2017,2,38,"Bell, Jordan",PF,Oregon
-2085,2017,2,39,"Evans, Jawun",PG,Oklahoma State
-2086,2017,2,40,"Bacon, Dwayne",SG,Florida State
-2087,2017,2,41,"Dorsey, Tyler",SG,Oregon
-2088,2017,2,42,"Bryant, Thomas",PF,Indiana
-2089,2017,2,43,"Hartenstein, Isaiah",PF/C,å_algiris Kaunas
-2090,2017,2,44,"Dotson, Damyean",SG,Houston
-2091,2017,2,45,"Brooks, Dillon",SF,Oregon
-2092,2017,2,46,"Brown, Sterling",SG,SMU
-2093,2017,2,47,"Anigbogu, Ike",C,UCLA
-2094,2017,2,48,"Thornwell, Sindarius",SG,South Carolina
-2095,2017,2,49,"åÛÌ_anåÛåar, Vlatko",SF,Mega Leks
-2096,2017,2,50,"Lessort, Mathias",PF/C,Nanterre 92
-2097,2017,2,51,"Morris, MontÌÎå©",PG,Iowa State
-2098,2017,2,52,"Sumner, Edmond",PG,Xavier
 2099,2017,2,53,"Allen, Kadeem",SG,Arizona
-2100,2017,2,54,"Peters, Alec",SF,Valparaiso
-2101,2017,2,55,"Williams-Goss, Nigel",PG,Gonzaga
+2081,2017,2,35,"Rabb, Ivan",PF,California
 2102,2017,2,56,"Bird, Jabari",SG,California
-2103,2017,2,57,"Vezenkov, Sasha",PF,FC Barcelona Lassa
-2104,2017,2,58,"Jaramaz, Ognjen",PG,Mega Leks
 2105,2017,2,59,"Blossomgame, Jaron",SF,Clemson
-2106,2017,2,60,"Kaba, Alpha",PF/C,Mega Leks
-2107,2018,1,1,DeAndre Ayton,C,Arizona
-2108,2018,1,2,Jaren Jackson Jr.,PF,Michigan St.
-2109,2018,1,3,Michael Porter,SF,Missouri
-2110,2018,1,4,Marvin Bagley,PF,Duke
-2111,2018,1,5,Luka Doncic,SG/SF,Slovenia
-2112,2018,1,6,Wendell Carter,PF/C,Duke
-2113,2018,1,7,Trae Young,PG,Oklahoma
-2114,2018,1,8,Mohamed Bamba,C,Texas
+2075,2017,1,29,"White, Derrick",PG/SG,Colorado
+2062,2017,1,16,"Patton, Justin",C,Creighton
+2049,2017,1,3,"Tatum, Jayson",SF,Duke
+2058,2017,1,12,"Kennard, Luke",SG,Duke
+2066,2017,1,20,"Giles, Harry",PF/C,Duke
+2077,2017,2,31,"Jackson, Frank",PG,Duke
+2052,2017,1,6,"Isaac, Jonathan",SF/PF,Florida State
+2086,2017,2,40,"Bacon, Dwayne",SG,Florida State
+2056,2017,1,10,"Collins, Zach",C/PF,Gonzaga
+2101,2017,2,55,"Williams-Goss, Nigel",PG,Gonzaga
+2090,2017,2,44,"Dotson, Damyean",SG,Houston
+2069,2017,1,23,"Anunoby, OG",SF,Indiana
+2088,2017,2,42,"Bryant, Thomas",PF,Indiana
+2097,2017,2,51,"Morris, Mont���",PG,Iowa State
+2050,2017,1,4,"Jackson, Josh",SF,Kansas
+2080,2017,2,34,"Mason III, Frank",PG,Kansas
+2079,2017,2,33,"Iwundu, Wes",SF,Kansas State
+2051,2017,1,5,"Fox, De'Aaron",PG,Kentucky
+2057,2017,1,11,"Monk, Malik",SG,Kentucky
+2060,2017,1,14,"Adebayo, Bam",PF/C,Kentucky
+2059,2017,1,13,"Mitchell, Donovan",SG,Louisville
+2078,2017,2,32,"Reed, Davon",SG,Miami
+2063,2017,1,17,"Wilson, D. J.",PF/SF,Michigan
+2055,2017,1,9,"Smith Jr., Dennis",PG,NC State
+2061,2017,1,15,"Jackson, Justin",SF,North Carolina
+2074,2017,1,28,"Bradley, Tony",PF/C,North Carolina
+2085,2017,2,39,"Evans, Jawun",PG,Oklahoma State
+2084,2017,2,38,"Bell, Jordan",PF,Oregon
+2087,2017,2,41,"Dorsey, Tyler",SG,Oregon
+2091,2017,2,45,"Brooks, Dillon",SF,Oregon
+2072,2017,1,26,"Swanigan, Caleb",PF,Purdue
+2083,2017,2,37,"Ojeleye, Semi",SF/PF,SMU
+2092,2017,2,46,"Brown, Sterling",SG,SMU
+2094,2017,2,48,"Thornwell, Sindarius",SG,South Carolina
+2070,2017,1,24,"Lydon, Tyler",PF,Syracuse
+2068,2017,1,22,"Allen, Jarrett",C,Texas
+2048,2017,1,2,"Ball, Lonzo",PG,UCLA
+2064,2017,1,18,"Leaf, T. J.",PF,UCLA
+2093,2017,2,47,"Anigbogu, Ike",C,UCLA
+2073,2017,1,27,"Kuzma, Kyle",PF,Utah
+2076,2017,1,30,"Hart, Josh",SG,Villanova
+2065,2017,1,19,"Collins, John",PF,Wake Forest
+2047,2017,1,1,"Fultz, Markelle",PG/SG,Washington
+2098,2017,2,52,"Sumner, Edmond",PG,Xavier
 2115,2018,1,9,Collin Sexton,PG,Alabama
-2116,2018,1,10,Kevin Knox,SF/PF,Kentucky
-2117,2018,1,11,Mikal Bridges,SG/SF,Villanova
-2118,2018,1,12,Miles Bridges,SF/PF,Michigan St.
-2119,2018,1,13,Shai Gilgeous-Al...,PG,Kentucky
-2120,2018,1,14,Robert Williams,PF/C,Texas A&M
-2121,2018,1,15,Gary Trent Jr.,SG,Duke
-2122,2018,1,16,Lonnie Walker,SG,Miami
-2123,2018,1,17,Dzanan Musa,SF,Bosnia & Herz
-2124,2018,1,18,Hamidou Diallo,SG,Kentucky
+2107,2018,1,1,DeAndre Ayton,C,Arizona
+2150,2018,2,44,Allonzo Trier,SG,Arizona
+2156,2018,2,50,Rawle Alkins,SG,Arizona
+2134,2018,1,28,Austin Wiley,C,Auburn
+2142,2018,2,36,Chandler Hutchison,SG/SF,Boise State
+2162,2018,2,56,Jacob Evans,SF,Cincinnati
 2125,2018,1,19,Khyri Thomas,PG/SG,Creighton
-2126,2018,1,20,Mitchell Robinson,C,USA
+2110,2018,1,4,Marvin Bagley,PF,Duke
+2112,2018,1,6,Wendell Carter,PF/C,Duke
+2121,2018,1,15,Gary Trent Jr.,SG,Duke
 2127,2018,1,21,Trevon Duval,PG,Duke
 2128,2018,1,22,Grayson Allen,SG,Duke
-2129,2018,1,23,Chimezie Metu,PF/C,USC
-2130,2018,1,24,Landry Shamet,PG/SG,Wichita State
-2131,2018,1,25,Brandon McCoy,C,UNLV
-2132,2018,1,26,Troy Brown,PG/SG,Oregon
-2133,2018,1,27,Omer Yurtseven,C,NC State
-2134,2018,1,28,Austin Wiley,C,Auburn
-2135,2018,1,29,Tony Carr,PG,Penn State
-2136,2018,1,30,Moritz Wagner,PF,Michigan
-2137,2018,2,31,Rodions Kurucs,SF,Latvia
-2138,2018,2,32,Bruce Brown,SG,Miami
-2139,2018,2,33,Kerwin Roach,PG/SG,Texas
-2140,2018,2,34,Isaac Bonga,SF,Germany
-2141,2018,2,35,Robert Franks,SF/PF,Washington State
-2142,2018,2,36,Chandler Hutchison,SG/SF,Boise State
-2143,2018,2,37,Kenrich Williams,SF,TCU
-2144,2018,2,38,Keita Bates-Diop,SF,Ohio State
-2145,2018,2,39,Alize Johnson,PF,Missouri State
-2146,2018,2,40,Aaron Holiday,PG,UCLA
-2147,2018,2,41,Sviatoslav Mykha,SG,Kansas
-2148,2018,2,42,Jaylen Adams,PG/SG,St. Bonaventure
-2149,2018,2,43,Kevin Hervey,SF,Texas Arlington
-2150,2018,2,44,Allonzo Trier,SG,Arizona
-2151,2018,2,45,Keenan Evans,PG/SG,Texas Tech
-2152,2018,2,46,Shake Milton,PG/SG,SMU
-2153,2018,2,47,Goga Bitadze,C,Rep. of Georgia
-2154,2018,2,48,Jalen Brunson,PG,Villanova
-2155,2018,2,49,Thomas Wilder,PG,Western Michigan
-2156,2018,2,50,Rawle Alkins,SG,Arizona
 2157,2018,2,51,Jalen Hudson,SG,Florida
+2147,2018,2,41,Sviatoslav Mykha,SG,Kansas
 2158,2018,2,52,Devonte Graham,PG,Kansas
-2159,2018,2,53,Arnoldas Kulboka,SF,Lithuania
-2160,2018,2,54,Melvin Frazier,SG/SF,Tulane
-2161,2018,2,55,Joel Berry,PG,North Carolina
-2162,2018,2,56,Jacob Evans,SF,Cincinnati
-2163,2018,2,57,Jevon Carter,PG,West Virginia
-2164,2018,2,58,Borisa Simanic,SF/PF,Serbia
-2165,2018,2,59,Bonzie Colson,SF/PF,Notre Dame
+2116,2018,1,10,Kevin Knox,SF/PF,Kentucky
+2119,2018,1,13,Shai Gilgeous-Al...,PG,Kentucky
+2124,2018,1,18,Hamidou Diallo,SG,Kentucky
+2122,2018,1,16,Lonnie Walker,SG,Miami
+2138,2018,2,32,Bruce Brown,SG,Miami
+2136,2018,1,30,Moritz Wagner,PF,Michigan
+2108,2018,1,2,Jaren Jackson Jr.,PF,Michigan St.
+2118,2018,1,12,Miles Bridges,SF/PF,Michigan St.
+2109,2018,1,3,Michael Porter,SF,Missouri
+2145,2018,2,39,Alize Johnson,PF,Missouri State
+2133,2018,1,27,Omer Yurtseven,C,NC State
 2166,2018,2,60,Kendall Stephens,SG/SF,Nevada
+2161,2018,2,55,Joel Berry,PG,North Carolina
+2165,2018,2,59,Bonzie Colson,SF/PF,Notre Dame
+2144,2018,2,38,Keita Bates-Diop,SF,Ohio State
+2113,2018,1,7,Trae Young,PG,Oklahoma
+2132,2018,1,26,Troy Brown,PG/SG,Oregon
+2135,2018,1,29,Tony Carr,PG,Penn State
+2152,2018,2,46,Shake Milton,PG/SG,SMU
+2148,2018,2,42,Jaylen Adams,PG/SG,St. Bonaventure
+2143,2018,2,37,Kenrich Williams,SF,TCU
+2114,2018,1,8,Mohamed Bamba,C,Texas
+2139,2018,2,33,Kerwin Roach,PG/SG,Texas
+2120,2018,1,14,Robert Williams,PF/C,Texas A&M
+2149,2018,2,43,Kevin Hervey,SF,Texas Arlington
+2151,2018,2,45,Keenan Evans,PG/SG,Texas Tech
+2160,2018,2,54,Melvin Frazier,SG/SF,Tulane
+2146,2018,2,40,Aaron Holiday,PG,UCLA
+2131,2018,1,25,Brandon McCoy,C,UNLV
+2126,2018,1,20,Mitchell Robinson,C,USA
+2129,2018,1,23,Chimezie Metu,PF/C,USC
+2117,2018,1,11,Mikal Bridges,SG/SF,Villanova
+2154,2018,2,48,Jalen Brunson,PG,Villanova
+2141,2018,2,35,Robert Franks,SF/PF,Washington State
+2163,2018,2,57,Jevon Carter,PG,West Virginia
+2155,2018,2,49,Thomas Wilder,PG,Western Michigan
+2130,2018,1,24,Landry Shamet,PG/SG,Wichita State
