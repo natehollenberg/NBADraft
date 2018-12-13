@@ -14,6 +14,20 @@ draft = read.csv("Final Dataset.csv")
 ```
 
 ```{r}
-model1 = 
+model1 = lm(pick ~ Class + Pos + Conf_x + G + MP.1 + FG + FGA + X2P + X2PA + X3P + X3PA + FT + FTA + ORB + DRB + TRB + AST + STL + BLK + TOV + PF + PTS + Team_Rk + BPI.Off + BPI.Def + BPI + Player_Rank + Outside100 + Height + Weight, data = draft)
+model0 = lm(draft$pick ~ 1)
+fullmodel = lm(pick ~ (Class + Pos + Conf_x + G + MP.1 + FG + FGA + X2P + X2PA + X3P + X3PA + FT + FTA + ORB + DRB + TRB + AST + STL + BLK + TOV + PF + PTS + Team_Rk + BPI.Off + BPI.Def + BPI + Player_Rank+ Outside100 + Height + Weight)^2, data = draft)
+summary(model1)
 ```
+```{r}
+stepmodel <- step(model1, scope = list(lower = model0, upper = fullmodel), direction = "both", trace=FALSE)
+summary(stepmodel)
+AIC(model1, stepmodel)
+```
+
+
+
+
+
+
 
